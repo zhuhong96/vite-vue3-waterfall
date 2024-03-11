@@ -1,6 +1,6 @@
 <template>
   <div class="quill-editor">
-    789
+    789456
   </div>
 </template>
 
