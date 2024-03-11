@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div>
+  <div>45
     <quill-editor />
   </div>
 </template>
